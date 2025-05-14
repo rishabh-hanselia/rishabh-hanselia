@@ -21,8 +21,6 @@
 
 ## 👩‍💻  About Me
 
-##
-
 <p align="left">I'm Rishabh Hanselia<br>
 
 🎯 **Data Analyst | AI & Data Science Enthusiast | Insight-Driven Storyteller**
