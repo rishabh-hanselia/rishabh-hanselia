@@ -71,11 +71,11 @@ I'm always looking to collaborate on exciting analytics, data science, or dashbo
 
 </p>
 
-###
+##
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40"  alt="powerbi logo"  />
