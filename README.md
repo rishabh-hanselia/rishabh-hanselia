@@ -9,7 +9,10 @@
   <a href="https://www.linkedin.com/in/rishabh-hanselia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/badge/PORTFOLIO-red?style=flat-square&link=https%3A%2F%2Fcodebasics.io%2Fportfolio%2FRishabh-Hanselia" height="25" alt="portfolio"  />
+    <a href="https://codebasics.io/portfolio/Rishabh-Hanselia" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-red?style=flat-square&link=https%3A%2F%2Fcodebasics.io%2Fportfolio%2FRishabh-Hanselia" height="25" alt="portfolio"  />
+  </a>
+  
 </div>
 
 ###
