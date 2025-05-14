@@ -19,11 +19,11 @@
 
 <h1 align="center">Hey There 👋</h1>
 
-###
+##
 
-👩‍💻  About Me</h3
+👩‍💻  About Me<
 
-###
+##
 
 <p align="left">I'm Rishabh Hanselia<br>
 
