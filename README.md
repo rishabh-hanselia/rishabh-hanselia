@@ -17,10 +17,10 @@
 </div>
 
 
-<h1 align="center">Hey There, I'm Rishabh Hanselia👋</h1>
+<h1 align="center">Hey There, 👋</h1>
 
 
-
+<h2>I'm Rishabh Hanselia</h2>
 🎯 **Data Analyst | AI & Data Science Enthusiast | Insight-Driven Storyteller**
 
 ---
