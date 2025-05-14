@@ -31,7 +31,45 @@
 
 ###
 
-<p align="left">I'm Rishabh Hanselia<br>A passionate Data Analyst with a strong foundation in machine learning, data visualization, and statistical analysis, backed by an M.Tech in AI & Data Science from IIIT Bhagalpur.<br><br>I enjoy turning complex datasets into actionable insights and have worked on impactful projects such as predicting bone marrow transplant survivability using ML, building HR analytics dashboards in Power BI, conducting EV market segmentation, and creating a Business 360 dashboard for AtliQ Hardwares covering finance, sales, marketing, and supply chain metrics.<br><br>💻 My hands-on experience with tools like Power BI, Excel, Python, SQL, scikit-learn, and ML pipelines reflects my drive to solve real-world problems with data.<br><br>I’m excited about roles in data analytics and data science, where I can apply my skills to drive data-informed decisions and business value.<br><br>Let’s turn data into decisions. 📊</p>
+<p align="left">I'm Rishabh Hanselia<br>
+
+🎯 **Data Analyst | AI & Data Science Enthusiast | Insight-Driven Storyteller**
+
+---
+
+Welcome to my GitHub! I'm a data enthusiast who believes in the power of *data-driven decisions* to transform businesses and shape the future. With an M.Tech in AI & Data Science from **IIIT Bhagalpur**, I specialize in turning raw data into compelling stories and strategic insights.
+
+## 🔍 What I Do
+
+- 💡 Make sense of messy data
+- 📊 Design dashboards that speak business
+- 🤖 Build machine learning models to predict outcomes
+- 📈 Transform analytics into action
+
+## 🚀 Featured Projects
+
+- 🔬 **Bone Marrow Transplant Survivability Prediction**  
+  Used machine learning to predict survival chances post-transplant — saving lives with data!
+
+- 📊 **Business 360 Dashboard for AtliQ Hardwares**  
+  Unified financial, sales, marketing, and supply chain metrics in Power BI for a holistic business view.
+
+- 👥 **HR Analytics Dashboard**  
+  Visualized key HR metrics like attrition, performance, and diversity using Power BI.
+
+- ⚡ **EV Market Segmentation**  
+  Segmented the Indian EV market using clustering algorithms to uncover buyer personas.
+
+## 🤝 Let’s Collaborate!
+
+I'm always looking to collaborate on exciting analytics, data science, or dashboarding projects. If you're passionate about making data useful, let’s connect!
+
+---
+
+🌟 Don’t forget to ⭐ my repositories if you like what you see!
+
+
+</p>
 
 ###
 
