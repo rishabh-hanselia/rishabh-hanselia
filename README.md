@@ -60,22 +60,8 @@ Welcome to my GitHub! I'm a data enthusiast who believes in the power of *data-d
 - ⚡ **EV Market Segmentation**  
   Segmented the Indian EV market using clustering algorithms to uncover buyer personas.
 
-## 🤝 Let’s Collaborate!
+## 🛠 Language and tools
 
-I'm always looking to collaborate on exciting analytics, data science, or dashboarding projects. If you're passionate about making data useful, let’s connect!
-
----
-
-🌟 Don’t forget to ⭐ my repositories if you like what you see!
-
-
-</p>
-
-##
-
-<h3 align="left">🛠 Language and tools</h3>
-
-##
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40"  alt="powerbi logo"  />
@@ -91,7 +77,20 @@ I'm always looking to collaborate on exciting analytics, data science, or dashbo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
+## 🤝 Let’s Collaborate!
+
+I'm always looking to collaborate on exciting analytics, data science, or dashboarding projects. If you're passionate about making data useful, let’s connect!
+
+---
+
+🌟 Don’t forget to ⭐ my repositories if you like what you see!
+
+
+</p>
+
+
+
+
 
 
 
