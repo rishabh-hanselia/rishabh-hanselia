@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rishabh-hanselia/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frishabh-hanselia-aa8aba206%2F"  />
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frishabh-hanselia-aa8aba206%2F" height="25" alt="linkedin"  />
   </a>
     <a href="https://codebasics.io/portfolio/Rishabh-Hanselia" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-red?style=flat-square&link=https%3A%2F%2Fcodebasics.io%2Fportfolio%2FRishabh-Hanselia" height="25" alt="portfolio"  />
