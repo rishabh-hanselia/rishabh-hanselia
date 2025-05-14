@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjZTBwNTE2Z2Z6YW5mN29uZHIyeHp1Z25pd2hoNW9yY2l0bWo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
+  <img height="2000" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjZTBwNTE2Z2Z6YW5mN29uZHIyeHp1Z25pd2hoNW9yY2l0bWo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
 </div>
 
 ###
@@ -16,13 +16,6 @@
   
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishabh-hanselia.rishabh-hanselia&"  />
-</div>
-
-###
 
 <h1 align="center">Hey There 👋</h1>
 
